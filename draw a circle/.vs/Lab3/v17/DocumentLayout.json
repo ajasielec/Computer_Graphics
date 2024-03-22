@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\GK_lab_3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCD3C2-07C5-447B-83BE-83D753E8ED4F}|Lab3.vcxproj|C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\GK_lab_3\\Lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98BCD3C2-07C5-447B-83BE-83D753E8ED4F}|Lab3.vcxproj|solutionrelative:lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCD3C2-07C5-447B-83BE-83D753E8ED4F}|Lab3.vcxproj|C:\\Users\\Ania\\source\\repos\\OpenGL_Libraries\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\OpenGL_Libraries\\glad.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\OpenGL_Libraries\\glad.c",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\OpenGL_Libraries\\glad.c",
+              "RelativeToolTip": "..\\..\\..\\OpenGL_Libraries\\glad.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-15T11:27:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\GK_lab_3\\Lab3\\lab3.cpp",
+              "RelativeDocumentMoniker": "lab3.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\GK_lab_3\\Lab3\\lab3.cpp",
+              "RelativeToolTip": "lab3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T08:34:39.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
