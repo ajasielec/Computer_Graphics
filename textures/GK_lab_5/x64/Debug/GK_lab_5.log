@@ -1,0 +1,3 @@
+﻿  lab5-tekstury.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_5\lab5-tekstury.cpp(45,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  GK_lab_5.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_5\x64\Debug\GK_lab_5.exe
