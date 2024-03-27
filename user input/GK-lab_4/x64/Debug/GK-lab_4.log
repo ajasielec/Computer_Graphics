@@ -1,0 +1,6 @@
+﻿  lab4.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_4\lab4.cpp(49,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_4\lab4.cpp(86,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_4\lab4.cpp(195,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_4\lab4.cpp(265,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  GK-lab_4.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\GK_lab_4\x64\Debug\GK-lab_4.exe
