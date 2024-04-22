@@ -1,0 +1,6 @@
+﻿  camera.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\7-camera\camera.cpp(57,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\7-camera\camera.cpp(58,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\7-camera\camera.cpp(60,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\7-camera\camera.cpp(61,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  7-camera.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\7-camera\x64\Debug\7-camera.exe

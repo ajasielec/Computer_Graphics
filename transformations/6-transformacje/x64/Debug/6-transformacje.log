@@ -1,0 +1,3 @@
+﻿  transformacje.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\6-transformacje\transformacje.cpp(152,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  6-transformacje.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\6-transformacje\x64\Debug\6-transformacje.exe
