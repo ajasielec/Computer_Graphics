@@ -1,0 +1,11 @@
+﻿  light.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(92,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(92,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(101,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(109,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(110,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(112,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(113,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(370,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\light.cpp(381,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  9-light.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\8-light\x64\Debug\9-light.exe
