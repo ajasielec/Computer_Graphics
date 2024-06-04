@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\rendering2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|solutionrelative:rendering2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ania\\Downloads\\lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\7-camera\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|solutionrelative:vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5644B65A-D412-4DB3-9A94-0392387CF1FE}|10-rendering2D.vcxproj|solutionrelative:fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rendering2D.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\rendering2D.cpp",
+              "RelativeDocumentMoniker": "rendering2D.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\rendering2D.cpp",
+              "RelativeToolTip": "rendering2D.cpp",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAAABUBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T07:51:47.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dc669fa6-4570-4441-a03e-2af3e5882f85",
+        "Display": 0,
+        "X": 146,
+        "Y": 66,
+        "Width": 526,
+        "Height": 570,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\7-camera\\camera.cpp",
+              "RelativeDocumentMoniker": "..\\7-camera\\camera.cpp",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\7-camera\\camera.cpp",
+              "RelativeToolTip": "..\\7-camera\\camera.cpp",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAAcBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T07:56:38.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a7b0fec7-8ddb-4a38-8284-81b6eebebc41",
+        "Display": 0,
+        "X": 273,
+        "Y": 122,
+        "Width": 526,
+        "Height": 570,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fragment_shader.glsl",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\fragment_shader.glsl",
+              "RelativeDocumentMoniker": "fragment_shader.glsl",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\fragment_shader.glsl",
+              "RelativeToolTip": "fragment_shader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T08:33:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertex_shader.glsl",
+              "DocumentMoniker": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\vertex_shader.glsl",
+              "RelativeDocumentMoniker": "vertex_shader.glsl",
+              "ToolTip": "C:\\Users\\Ania\\source\\repos\\Grafika_Komputerowa\\10-rendering2D\\vertex_shader.glsl",
+              "RelativeToolTip": "vertex_shader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T08:34:28.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dd11d779-a164-4384-afe5-3e600c2b6884",
+        "Display": 0,
+        "X": 188,
+        "Y": 39,
+        "Width": 526,
+        "Height": 719,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab10.cpp",
+              "DocumentMoniker": "C:\\Users\\Ania\\Downloads\\lab10.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\lab10.cpp",
+              "ToolTip": "C:\\Users\\Ania\\Downloads\\lab10.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\lab10.cpp",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAKEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T08:36:16.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  rendering2D.cpp
+C:\Users\Ania\source\repos\Grafika_Komputerowa\10-rendering2D\rendering2D.cpp(265,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ania\source\repos\Grafika_Komputerowa\10-rendering2D\rendering2D.cpp(284,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  10-rendering2D.vcxproj -> C:\Users\Ania\source\repos\Grafika_Komputerowa\10-rendering2D\x64\Debug\10-rendering2D.exe
